@@ -1,0 +1,1 @@
+FROM gcr.io/istio-testing/pilot:1.4-dev
